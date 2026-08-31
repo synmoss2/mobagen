@@ -7,7 +7,7 @@ glm::vec2 AlignmentRule::computeForce(const std::vector<BoidView>& neighborhood,
 
   // begin solution
 
-
+  //Test Commit
   return averageVelocity;
   // end solution
 }
